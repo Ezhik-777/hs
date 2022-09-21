@@ -1,0 +1,11 @@
+---
+enable: true
+topTitle: Willkommen auf unserer Webseite
+content: >
+  # HS-Autoservice
+  
+  lorem 
+
+buttonName: Kontakt
+buttonURL: contact
+image: images/hero/2960351.jpg
